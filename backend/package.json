@@ -5,8 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node app.js",
-    "vercel-build": "echo hello"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
