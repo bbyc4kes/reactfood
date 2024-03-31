@@ -19,4 +19,9 @@
     <li>Responsive Design: Design a responsive and mobile-friendly user interface using CSS and media queries, catering to users across various devices and screen sizes.</li>
 </ul>
 
+![image](https://github.com/bbyc4kes/reactfood/assets/153362892/8d12c838-de7e-49fa-9f74-94c358004f5f)
+
+![image](https://github.com/bbyc4kes/reactfood/assets/153362892/6bd89b35-31bb-419a-b6dc-0284eeca84b7)
+
+
 With ReactFood, embark on a culinary journey like never before. Explore the fusion of fundamental and advanced React concepts while indulging in a seamless food ordering experience. Bon appétit!
