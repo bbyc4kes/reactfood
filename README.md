@@ -2,6 +2,10 @@
 
 ## ReactFood is a mouthwatering food order project that showcases the power of React's Context API for efficient data management and seamless API integration. Combining fundamental and advanced React concepts, this project delivers a delightful user experience while exploring the intricacies of modern web development.
 
+![image](https://github.com/bbyc4kes/reactfood/assets/153362892/ad5f52b8-c663-4e4b-805f-99455dfa0221)
+
+![image](https://github.com/bbyc4kes/reactfood/assets/153362892/e8c82127-beae-4b2c-b0b7-db9c8d3347f1)
+
 ### Key Features:
 
 <ul>
