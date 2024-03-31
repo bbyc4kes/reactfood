@@ -23,5 +23,11 @@
 
 ![image](https://github.com/bbyc4kes/reactfood/assets/153362892/6bd89b35-31bb-419a-b6dc-0284eeca84b7)
 
+## How to get started:
+
+run <code>node app.js</code> in the ./backend directory
+
+start vite server in root directory using
+<code>npm run dev</code>
 
 With ReactFood, embark on a culinary journey like never before. Explore the fusion of fundamental and advanced React concepts while indulging in a seamless food ordering experience. Bon appétit!
